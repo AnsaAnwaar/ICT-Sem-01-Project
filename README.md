@@ -3,5 +3,5 @@ Welcome to DIYA, your place for beautiful wedding dresses. This website is the p
 Using HTML, CSS, and JavaScript, we've made this website where brides can easily find their dream dress. Come to DIYA and start your journey to your wedding day with us.
 
 **NOTE: **
-But there are some things that are missing; specifically, some JavaScript files are absent because this is an older project and my current device doesn't have them. Additionally, my website consists of four pages, with the second, third, and last pages being similar HTML pages. I've also created a video presentation with my teammate Nisha Pervez, which includes explanations, code walkthroughs, and demonstrations of the web pages. This video provides additional context and will help alot 
+But some JavaScript files are absent because this is an older project and my current device doesn't have them. I've also created a video presentation with my teammate Nisha Pervez, which includes explanations, code walkthroughs, and demonstrations of the web pages. This video provides additional context and will help alot 
 You can go through the video in this repository.
