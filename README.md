@@ -5,3 +5,5 @@ Using HTML, CSS, and JavaScript, we've made this website where brides can easily
 **NOTE: **
 But some JavaScript files are absent because this is an older project and my current device doesn't have them. I've also created a video presentation with my teammate Nisha Pervez, which includes explanations, code walkthroughs, and demonstrations of the web pages. This video provides additional context and will help alot 
 You can go through the video in this repository.
+
+![1](https://github.com/AnsaAnwaar/ICT-Sem-01-Project/assets/151175683/53f89ea9-92f3-4fca-957e-0c14cea53f66)
